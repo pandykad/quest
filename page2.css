@@ -31,22 +31,22 @@
   
   
   .slideshow li:nth-child(1) span { 
-	  background-image: url("/Story/1.jpeg"); 
+	  background-image: URL("./Story/1.jpeg"); 
   }
   .slideshow li:nth-child(2) span { 
-	background-image: url("/Story/2.jpeg"); 
+	background-image: URL("./Story/2.jpeg"); 
 	animation-delay: 6s; 
   }
   .slideshow li:nth-child(3) span { 
-	background-image: url("/Story/3.jpeg"); 
+	background-image: URL("./Story/3.jpeg"); 
 	animation-delay: 12s; 
   }
   .slideshow li:nth-child(4) span { 
-	background-image: url("/Story/4.jpeg"); 
+	background-image: URL("./Story/4.jpeg"); 
 	animation-delay: 18s; 
   }
   .slideshow li:nth-child(5) span { 
-	background-image: url("/Story/5.jpeg"); 
+	background-image: URL("./Story/5.jpeg"); 
 	animation-delay: 24s; 
   }
   
